@@ -1,4 +1,4 @@
-# <span style="color: biege;">Super Mario Implementation in Python</span>
+# <span style="color: biege;">Super Mario Bros in Python</span>
 
 ## <span style="color: red;">Running</span>
 
